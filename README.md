@@ -1,6 +1,6 @@
 # Self-Supervised Representation Learning with 2,400 Images
 
-ITCS 6169/8169 Assignment 2. All models are **randomly initialised** (`weights=None`) and trained
+ITCS 8169 Assignment 2. All models are **randomly initialised** (`weights=None`) and trained
 **only** on the provided 2,400 training images (16 classes). No external data or pretrained weights.
 
 **Best test accuracy: `81.75%`** (joint CE + SimCLR, run `joint_w0.5`) (`checkpoints/best_model.pt`, produced by the command under *Reproduce the best model*)
